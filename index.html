@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+
+	<!-- JavaScript insert start -->
+
+	<script src="tidy-table.min.js"></script>
+	<script>
+	$(document).ready(function() {
+        var hash = window.location.hash;
+        var url="";
+        if(hash=="#250") {
+            url = "/api/top/250";
+        }else {
+            url = "/api/top/50";
+        }
+        $.get(url, function(data){
+            var t=[];
+            for(var i=0; i<data.length; i++) {
+                t.push([data[i].rank, data[i].name, data[i].score]);
+            }
+            $('#container')
+                .TidyTable({
+                    enableCheckbox: false,
+                    enableMenu:     false,
+                    reverseSortDir: true
+                },
+                {
+                    columnTitles: ['Rank', 'Name', 'Score'],
+                    columnValues: t,
+                    postProcess: {
+                        column: linkifyNames
+                    },
+                    menuOptions: [
+                        ['- Action -', null],
+                    ]
+                });
+        });
+	});
+    function linkifyNames(td){
+        if($(td).index()==1) {
+            $(td).html("<a target=\"_blank\" href=\"http://www.pathofexile.com/account/view-profile/"+$(td).html()+"\">"+$(td).html()+"</a>");
+        }
+    }
+	</script>
+
+
+	<link rel="stylesheet" type="text/css" href="tidy-table.min.css">
+
+	<title>poearena.com - Ladder</title>
+</head>
+<body>
+
+
+<div id="container"></div>
+
+
+</body>
+</html>

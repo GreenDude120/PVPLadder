@@ -1,0 +1,212 @@
+[
+    {
+        "id": "5 Hour Dominus Kill (S09V112)",
+        "description": "Please check the Event Forums for more details and points awarded.",
+        "url": "http:\/\/www.pathofexile.com\/forum\/view-thread\/1105298",
+        "event": true,
+        "registerAt": "2014-11-19T06:30:00Z",
+        "startAt": "2014-11-19T07:00:00Z",
+        "endAt": "2014-11-19T12:00:00Z",
+        "timedEvent": true,
+        "rules": [
+            {
+                "id": 4,
+                "name": "Hardcore",
+                "description": "A character killed in Hardcore is moved to its parent league."
+            },
+            {
+                "id": 24,
+                "name": "Solo",
+                "description": "You may not party in this league."
+            }
+        ],
+        "ladder": [
+            
+        ]
+    },
+    {
+        "id": "2 Hr Fixed Seed Famine (S09S113)",
+        "description": "This is the Season Nine Signature Event.\n\nPlease check the Event Forums for more details and points awarded.",
+        "url": "http:\/\/www.pathofexile.com\/forum\/view-thread\/1105299",
+        "event": true,
+        "registerAt": "2014-11-19T16:30:00Z",
+        "startAt": "2014-11-19T17:00:00Z",
+        "endAt": "2014-11-19T19:00:00Z",
+        "rules": [
+            {
+                "id": 4,
+                "name": "Hardcore",
+                "description": "A character killed in Hardcore is moved to its parent league."
+            },
+            {
+                "id": 24,
+                "name": "Solo",
+                "description": "You may not party in this league."
+            }
+        ],
+        "ladder": [
+            
+        ]
+    },
+    {
+        "id": "One Hour Endless Ledge (S09C114)",
+        "description": "Please check the Event Forums for more details and points awarded.",
+        "url": "http:\/\/www.pathofexile.com\/forum\/view-thread\/1105300",
+        "event": true,
+        "registerAt": "2014-11-19T20:30:00Z",
+        "startAt": "2014-11-19T21:00:00Z",
+        "endAt": "2014-11-19T22:00:00Z",
+        "rules": [
+            {
+                "id": 4,
+                "name": "Hardcore",
+                "description": "A character killed in Hardcore is moved to its parent league."
+            },
+            {
+                "id": 24,
+                "name": "Solo",
+                "description": "You may not party in this league."
+            }
+        ],
+        "ladder": [
+            
+        ]
+    },
+    {
+        "id": "4 Hour Piety Kill (S09V115)",
+        "description": "Please check the Event Forums for more details and points awarded.",
+        "url": "http:\/\/www.pathofexile.com\/forum\/view-thread\/1105301",
+        "event": true,
+        "registerAt": "2014-11-20T02:30:00Z",
+        "startAt": "2014-11-20T03:00:00Z",
+        "endAt": "2014-11-20T07:00:00Z",
+        "timedEvent": true,
+        "rules": [
+            {
+                "id": 4,
+                "name": "Hardcore",
+                "description": "A character killed in Hardcore is moved to its parent league."
+            },
+            {
+                "id": 24,
+                "name": "Solo",
+                "description": "You may not party in this league."
+            }
+        ],
+        "ladder": [
+            
+        ]
+    },
+    {
+        "id": "One Hour Party (S09V116)",
+        "description": "Please check the Event Forums for more details and points awarded.",
+        "url": "http:\/\/www.pathofexile.com\/forum\/view-thread\/1105302",
+        "event": true,
+        "registerAt": "2014-11-20T08:30:00Z",
+        "startAt": "2014-11-20T09:00:00Z",
+        "endAt": "2014-11-20T10:00:00Z",
+        "rules": [
+            {
+                "id": 4,
+                "name": "Hardcore",
+                "description": "A character killed in Hardcore is moved to its parent league."
+            }
+        ],
+        "ladder": [
+            
+        ]
+    },
+    {
+        "id": "One Hour Endless Ledge (S09C117)",
+        "description": "Please check the Event Forums for more details and points awarded.",
+        "url": "http:\/\/www.pathofexile.com\/forum\/view-thread\/1105304",
+        "event": true,
+        "registerAt": "2014-11-20T10:30:00Z",
+        "startAt": "2014-11-20T11:00:00Z",
+        "endAt": "2014-11-20T12:00:00Z",
+        "rules": [
+            {
+                "id": 4,
+                "name": "Hardcore",
+                "description": "A character killed in Hardcore is moved to its parent league."
+            },
+            {
+                "id": 24,
+                "name": "Solo",
+                "description": "You may not party in this league."
+            }
+        ],
+        "ladder": [
+            
+        ]
+    },
+    {
+        "id": "4 Hour Piety Kill (S09V118)",
+        "description": "Please check the Event Forums for more details and points awarded.",
+        "url": "http:\/\/www.pathofexile.com\/forum\/view-thread\/1105305",
+        "event": true,
+        "registerAt": "2014-11-20T14:30:00Z",
+        "startAt": "2014-11-20T15:00:00Z",
+        "endAt": "2014-11-20T19:00:00Z",
+        "timedEvent": true,
+        "rules": [
+            {
+                "id": 4,
+                "name": "Hardcore",
+                "description": "A character killed in Hardcore is moved to its parent league."
+            },
+            {
+                "id": 24,
+                "name": "Solo",
+                "description": "You may not party in this league."
+            }
+        ],
+        "ladder": [
+            
+        ]
+    },
+    {
+        "id": "2 Hr Fixed Seed Famine (S09S119)",
+        "description": "This is the Season Nine Signature Event.\n\nPlease check the Event Forums for more details and points awarded.",
+        "url": "http:\/\/www.pathofexile.com\/forum\/view-thread\/1105306",
+        "event": true,
+        "registerAt": "2014-11-20T22:30:00Z",
+        "startAt": "2014-11-20T23:00:00Z",
+        "endAt": "2014-11-21T01:00:00Z",
+        "rules": [
+            {
+                "id": 4,
+                "name": "Hardcore",
+                "description": "A character killed in Hardcore is moved to its parent league."
+            },
+            {
+                "id": 24,
+                "name": "Solo",
+                "description": "You may not party in this league."
+            }
+        ],
+        "ladder": [
+            
+        ]
+    },
+    {
+        "id": "Two Hour Party (S09V120)",
+        "description": "Please check the Event Forums for more details and points awarded.",
+        "url": "http:\/\/www.pathofexile.com\/forum\/view-thread\/1105307",
+        "event": true,
+        "registerAt": "2014-11-21T04:30:00Z",
+        "startAt": "2014-11-21T05:00:00Z",
+        "endAt": "2014-11-21T07:00:00Z",
+        "rules": [
+            {
+                "id": 4,
+                "name": "Hardcore",
+                "description": "A character killed in Hardcore is moved to its parent league."
+            }
+        ],
+        "ladder": [
+            
+        ]
+    }
+]
+
